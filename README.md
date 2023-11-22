@@ -34,3 +34,13 @@ git clone https://github.com/swkkd/astro ~/.config/nvim/lua/user
 ```shell
 nvim
 ```
+```shell
+curl -LO https://github.com/neovim/neovim-releases/releases/download/nightly/nvim-linux64.tar.gz
+chmod u+x nvim.appimage
+./nvim.appimage
+```
+curl -LO https://github.com/neovim/neovim-releases/releases/download/nightly/nvim-linux64.tar.gz
+chmod u+x nvim.appimage
+./nvim.appimage
+
+https://github.com/neovim/neovim-releases/releases
